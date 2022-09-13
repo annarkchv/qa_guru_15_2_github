@@ -9,7 +9,7 @@ public class ExampleTest {
 
     @Test
     void exampleTest1() {
-        Assertions.assertTrue(1 == 1);
+        Assertions.assertFalse(false);
     }
 
     @Test
